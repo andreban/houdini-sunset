@@ -1,0 +1,16 @@
+{
+  "name": "houdini-sunset",
+  "version": "0.1.0",
+  "description": "A CSS Paint Worklet with an 80s style sunset.",
+  "main": "Sunset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "Houdini",    
+    "paintworklet"
+  ],
+  "author": "André Cipriani Bandarra",
+  "license": "Apache-2.0"
+}
